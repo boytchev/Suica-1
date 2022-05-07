@@ -1,8 +1,6 @@
 # Suica 1.0
 
-```diff
-! Note! This software is provided as legacy. The new version of Suica is there: [**https://github.com/boytchev/suica**](https://github.com/boytchev/suica).
-```
+_**Note!** This software is provided as legacy. The new version of Suica is there: [**https://github.com/boytchev/suica**](https://github.com/boytchev/suica)._
 
 **Suica 1.0** is a library for easy programming of mobile 3D graphics in
 JavaScript. It is based on WebGL. Suica is supports undergraduate courses for
